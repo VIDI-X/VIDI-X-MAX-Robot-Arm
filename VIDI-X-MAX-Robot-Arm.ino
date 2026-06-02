@@ -6,7 +6,8 @@
 // - 4 x MicroServo 9g SC90
 // - 4 x Potentiometer 10K
 // - I2C 16-bit ADS1115 analog-to-digital converter
-// - 3D print Serv-Arm: https://www.thingiverse.com/thing:1684471
+// - 3D print Serv-Arm: https://www.thingiverse.com/thing:7363605
+// - 3D print Serv-Arm is remixed from: https://www.thingiverse.com/thing:1684471
 // ================================================
 // -------------
 // 3D print has several drawbacks that need fixing:
