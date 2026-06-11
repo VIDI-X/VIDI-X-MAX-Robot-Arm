@@ -1,4 +1,4 @@
-# VIDI-X-MAX-Robot-Arm
+# VIDI-X-Robot-Arm
 
 <img width="3072" height="4096" alt="VIDI-x-robot-hand4" src="https://github.com/user-attachments/assets/b3cb668d-351e-4a49-9524-ced22f74cff6" />
 
